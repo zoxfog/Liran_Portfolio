@@ -4,4 +4,4 @@
 
 ## project 1: Day Trading Strategy Analysis
 
-In depth analysis of a day trading strategy implemented by me.
+In depth analysis of my day trading strategy cover data from dozens of trades with real money. The data features many variables other than Entry\Exit stock prices in order to get a better picture and support future desicions. 
