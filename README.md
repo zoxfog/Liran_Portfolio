@@ -1,5 +1,5 @@
 
-# Project Portfolio - Liran Nochumsohn
+
 
 
 ## Project 1 (in progress): Day Trading Strategy Analysis
