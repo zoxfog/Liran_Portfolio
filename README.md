@@ -1,7 +1,7 @@
 
 
 ## Project Portfolio
-list:
+
 
 ### [Project 1 (in progress): Day Trading Strategy Analysis](https://github.com/zoxfog/Day-Trading-Analysis)
 
