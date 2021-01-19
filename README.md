@@ -19,5 +19,5 @@ a program for converting instructions written in low-level assembly code into re
 
 
 
-<img src="/images/image2.jpg" width="400" height="200">
+<img src="/images/image2.jpg" width="900" height="300">
 ![](/images/image2.jpg =250x250)
