@@ -20,4 +20,4 @@ a program for converting instructions written in low-level assembly code into re
 
 
 
-![](/images/image2.jpg | width=100)
+![](/images/image2.jpg =250x250)
