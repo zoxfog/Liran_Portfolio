@@ -9,3 +9,15 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 
 
 ![](/images/image1.png)
+
+
+
+
+### [Project 1 (in progress): Day Trading Strategy Analysis](https://github.com/zoxfog/Assembler-Project)
+
+a program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
+
+
+
+
+![](/images/image2.jpg)
