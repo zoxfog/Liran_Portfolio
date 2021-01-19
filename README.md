@@ -19,5 +19,5 @@ a program for converting instructions written in low-level assembly code into re
 
 
 
-<img src="/images/image2.jpg" width="700" height="300">
+<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/image2.jpg" width="700" height="300">
 
