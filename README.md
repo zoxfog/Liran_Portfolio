@@ -6,15 +6,20 @@
 ### [Project 1 (in progress): Day Trading Strategy Analysis](https://github.com/zoxfog/Day-Trading-Analysis)
 
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables other than Entry/Exit stock prices in order to get a better picture and support future desicions. 
+
 Programming Language: Python
 
 
 ![](/images/image1.png)
 
 
-### [Project 3: Cardiovascular Diseases Analysis and Survivability Prediction](https://github.com/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
+### [Project 2: Cardiovascular Diseases Analysis and Survivability Prediction](https://github.com/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediciton and cluster analysis of patient survivability based on 13 attributes.
+
 Programming Language: Python
+
+
+<img src="https://github.com/zoxfog/Liran_Portfolio/blob/master/images/Screenshot%202021-04-23%20015906.jpg" width="700" height="300">
 
 
 
