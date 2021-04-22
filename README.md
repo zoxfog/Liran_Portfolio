@@ -19,7 +19,7 @@ Analysis of a dataset of 299 patients with heart failure collected in 2015. Pred
 Programming Language: Python
 
 
-<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-23%20015906.jpg" width="800" height="300">
+<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-23%20015906.jpg" width="100" height="300">
 
 
 
