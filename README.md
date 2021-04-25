@@ -5,7 +5,14 @@
 
 ### [Project 1 (in progress): Day Trading Strategy Analysis](https://github.com/zoxfog/Day-Trading-Analysis)
 
+
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables other than Entry/Exit stock prices in order to get a better picture and support future desicions. 
+
+
+#### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
+#### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
+#### [EDA and Preprocessing:]
+#### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
 
 Programming Language: Python
 
