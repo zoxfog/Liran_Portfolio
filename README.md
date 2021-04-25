@@ -40,7 +40,7 @@ Programming Language: Python
 
 # Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
 
-Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediciton and cluster analysis of patient survivability based on 13 attributes.
+Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediction and cluster analysis of patient survivability based on 13 attributes.
 
 ### [Project Notebook](https://nbviewer.jupyter.org/github/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
 
