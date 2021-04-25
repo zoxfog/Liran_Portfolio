@@ -8,8 +8,8 @@
 
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables other than Entry/Exit stock prices in order to get a better picture and support future desicions. 
 
-<span style="color:blue">
-### [Data Collection and Filtering:] </span>(https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
+
+### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
 Import data from local files and supplement it with data stock data from Yahoo Finance.
 ### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
 Clean the data from outlier and unsusual values.
@@ -63,5 +63,5 @@ Programming Language: C
 
 
 <img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/image2.jpg" width="700" height="300">
-
+<span style="color:red">some **This is Red Bold.** text</span>
 
