@@ -13,7 +13,7 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 Import data from local files and supplement it with data stock data from Yahoo Finance.
 ### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
 Clean the data from outlier and unsusual values.
-### [EDA and Preprocessing:]
+### [EDA and Preprocessing:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/EDA_and_Preprocessing.ipynb)
 Preprocess the data and visualize both the raw and preprocessed data while drawing inference.
 ### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
 Implement ML models for dimensionality reduction and classification and draw conclusions.
