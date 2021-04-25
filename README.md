@@ -10,6 +10,7 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 
 
 #### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
+dsfsdf
 #### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
 #### [EDA and Preprocessing:]
 #### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
@@ -45,7 +46,7 @@ Programming Language: Python
 
 
 
-## [Project 3: Assembler
+## Project 3: Assembler
 
 #### [Readme](https://github.com/zoxfog/Assembler-Project)
 
