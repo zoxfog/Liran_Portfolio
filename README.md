@@ -63,5 +63,5 @@ Programming Language: C
 
 
 <img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/image2.jpg" width="700" height="300">
-<span style="color:red">some **This is Red Bold.** text</span>
+
 
