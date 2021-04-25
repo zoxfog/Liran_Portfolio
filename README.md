@@ -10,7 +10,7 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 
 
 ### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
-Import data from local files and supplement it with data stock data from Yahoo Finance.
+Import data from local files and supplement it with extra stock data from Yahoo Finance.
 ### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
 Clean the data from outlier and unsusual values.
 ### [EDA and Preprocessing:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/EDA_and_Preprocessing.ipynb)
