@@ -40,8 +40,10 @@ Programming Language: Python
 
 ## Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
 
-#### [Project Notebook](https://github.com/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediciton and cluster analysis of patient survivability based on 13 attributes.
+
+#### [Project Notebook](https://nbviewer.jupyter.org/github/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
+
 
 Programming Language: Python
 
@@ -52,9 +54,10 @@ Programming Language: Python
 
 ## Project 3: Assembler
 
-#### [Readme](https://github.com/zoxfog/Assembler-Project)
 
 A program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
+
+#### [Readme](https://github.com/zoxfog/Assembler-Project)
 
 Programming Language: C
 
