@@ -9,13 +9,13 @@
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables other than Entry/Exit stock prices in order to get a better picture and support future desicions. 
 
 
-#### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
+### [Data Collection and Filtering:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Collection_and_Filtering.ipynb)
 Import data from local files and supplement it with data stock data from Yahoo Finance.
-#### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
+### [Data Cleaning:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb) 
 Clean the data from outlier and unsusual values.
-#### [EDA and Preprocessing:]
+### [EDA and Preprocessing:]
 Preprocess the data and visualize both the raw and preprocessed data while drawing inference.
-#### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
+### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
 Implement ML models for dimensionality reduction and classification and draw conclusions.
 
 ![](/images/image1.png)
@@ -42,7 +42,7 @@ Programming Language: Python
 
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediciton and cluster analysis of patient survivability based on 13 attributes.
 
-#### [Project Notebook](https://nbviewer.jupyter.org/github/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
+### [Project Notebook](https://nbviewer.jupyter.org/github/zoxfog/Cardiovascular-Diseases/blob/main/Cardiovascular%20Diseases.ipynb)
 
 
 Programming Language: Python
@@ -57,7 +57,7 @@ Programming Language: Python
 
 A program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
 
-#### [Readme](https://github.com/zoxfog/Assembler-Project)
+### [Readme](https://github.com/zoxfog/Assembler-Project)
 
 Programming Language: C
 
