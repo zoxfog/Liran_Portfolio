@@ -32,3 +32,4 @@ Programming Language: C
 
 <img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/image2.jpg" width="700" height="300">
 
+(https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Data_Cleaning.ipynb)
