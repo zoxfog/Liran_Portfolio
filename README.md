@@ -14,11 +14,11 @@ In depth analysis of my day trading strategy covering data from dozens of trades
 #### [EDA and Preprocessing:]
 #### [Modeling and Conclusions:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis/blob/main/Modeling.ipynb)
 
+![](/images/image1.png)
+
 ### Part 2: (in progress)
 
 
-
-<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-25%20051634.jpg" width="700" height="300">
 
 This part is a follow up to part 1, here we download all the necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
 we also address the issues that came up in the previous project and start creating a foundation for algo-trading, for example find preferabe pre-trade attributes for stock picking using agents and start training the data for reinforcement learning.
@@ -29,8 +29,8 @@ we also address the issues that came up in the previous project and start creati
 
 Programming Language: Python
 
+<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-25%20051634.jpg" width="700" height="300">
 
-![](/images/image1.png)
 
 
 ## Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
