@@ -26,7 +26,7 @@ This part is a follow up to part 1, here we download all the necessary data down
 we also address the issues that came up in the previous project and start creating a foundation for algo-trading, for example find preferabe pre-trade attributes for stock picking using agents and start training the data for reinforcement learning.
 
 
-### [Raw Data Extraction:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis-2/blob/main/Raw_Data_Extraction.ipynb)
+### [Raw Data Extraction:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis-2/blob/main/Raw_Data_Extraction.ipynb) 
 Retrieve 1-minute, 1 day and 1 hour stock data from Interactive Brokers and Yahoo Finance, and store the new data locally. This procedure is implemented on a daily basis. 
 ### [Main Notebook:](https://nbviewer.jupyter.org/github/zoxfog/Day-Trading-Analysis-2/blob/main/main.ipynb)
 The main notebook of the project, here we will conduct all of the pre processing, feature engineering, exploratory data analysis, modeling and algorithmic design.
